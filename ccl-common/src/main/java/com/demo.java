@@ -7,4 +7,7 @@ package com;
  * To change this template use File | Settings | File Templates.
  **/
 public class demo {
+    public static void main(String[] args) {
+        System.out.println("Hello Word");
+    }
 }
